@@ -1,6 +1,8 @@
-# helloworld
-getting used to Github. Bold move. 
+# Simple Static Homepage Project 
+## Options
+1. Github + Jekyll
+2. Markdown + Eleventy + Deploy
+3. Framer
 
 
-This is my second line for making this readme file awesome.
-I'm not sure that which branch is this. Am I on the master ? or not. 
+
